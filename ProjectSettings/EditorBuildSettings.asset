@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/trailer_1.unity
     guid: 3fdfc5ada344e924f958867d0cce8d91
   - enabled: 1
-    path: Assets/Scenes/trailer_2.unity
+    path: Assets/Scenes/Map_part1.unity
     guid: dc507d2b04a421d4daae07a97db5e358
   m_configObjects: {}
